@@ -1,0 +1,4 @@
+/* Global reset — los estilos del portfolio están en src/styles/portfolio.css */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
